@@ -5,6 +5,6 @@ Import the Folder
 
 Menu Google Chrome --> More Tools -->Extention 
 
-Mode developeur --> oad unpacked extension
+Mode developeur --> Load unpacked extension
 
 Select the Folder
