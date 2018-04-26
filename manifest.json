@@ -2,7 +2,7 @@
 	"name": "MyTest extension",
 	"description": "Test to take URL / Pictures ",
 	"icons": {	
-		"test": "images/icons/logo/test.png"
+		"48": "images/icons/logo/test.png"
 	},
 		 
 	"version": "1.0.0",
