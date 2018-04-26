@@ -1,15 +1,22 @@
 {
-  "manifest_version": 2,
-
-  "name": "test-extention",
-  "description": "This extension",
-  "version": "1.0",
-
-  "browser_action": {
-   "default_icon": "test.png",
-   "default_popup": "popup.html"
-  },
-  "permissions": [
-   "activeTab"
-   ]
+	"name": "MyTest extension",
+	"description": "Test to take URL / Pictures ",
+	"icons": {	
+		"test": "images/icons/logo/test.png"
+	},
+		 
+	"version": "1.0.0",
+	"minimum_chrome_version": "21",
+	"manifest_version": 2,
+	
+	"browser_action": {
+		"default_icon": "images/icons/logo/test.png",
+		"default_title": "Test to take URL / Pictures",
+		"default_popup": "html/default.html"
+	},
+	
+	"permissions": [
+		"tabs",
+		"downloads"
+	]
 }

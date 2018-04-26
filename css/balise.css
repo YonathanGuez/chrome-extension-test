@@ -1,0 +1,27 @@
+/* Start: Elements */
+	#Download_Wrapper {
+		width: 100%;
+	}
+	
+	#Download_Button {
+		width: 85px;
+	}
+	
+	#URL_Wrapper {
+		margin-top: 15px;
+	}
+	
+	#Form_Name_Label, #Form_URL_Label {
+		width: 45px;
+		margin-top: 4px;
+		text-align: right;
+		margin-right: 10px;
+	}
+	div#Label_Wrapper {
+		text-align: center;
+	}
+	.logo {
+		text-align: center;
+		width: 100%;
+	}
+/* End: Elements */
